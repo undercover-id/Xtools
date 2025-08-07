@@ -1,0 +1,10 @@
+[
+  {
+    "username": "akun1",
+    "cookies": "cookies/akun1.json"
+  },
+  {
+    "username": "akun2",
+    "cookies": "cookies/akun2.json"
+  }
+]
